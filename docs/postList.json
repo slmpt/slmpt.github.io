@@ -1,1 +1,1 @@
-{"P1": {"label": "good first issue", "labelColor": "#7057ff", "postTitle": "\u4f60\u597d", "postUrl": "post/ni-hao.html", "createdDate": "2023-12-26", "dateLabelColor": "#A333D0"}}
+{"P1": {"labels": ["good first issue"], "postTitle": "\u4f60\u597d", "postUrl": "post/ni-hao.html", "createdDate": "2023-12-26", "dateLabelColor": "#A333D0"}, "labelColorDict": {"bug": "#d73a4a", "documentation": "#0075ca", "duplicate": "#cfd3d7", "enhancement": "#a2eeef", "good first issue": "#7057ff", "help wanted": "#008672", "invalid": "#e4e669", "question": "#d876e3", "wontfix": "#ffffff"}}
